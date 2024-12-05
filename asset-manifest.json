@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/MahammaRafi06.github.io/static/css/main.7533df01.css",
+    "main.js": "/MahammaRafi06.github.io/static/js/main.425c323f.js",
+    "static/css/64.bba8fa55.chunk.css": "/MahammaRafi06.github.io/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/MahammaRafi06.github.io/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/MahammaRafi06.github.io/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.29ef301b.chunk.js": "/MahammaRafi06.github.io/static/js/769.29ef301b.chunk.js",
+    "static/media/UWlogo.png": "/MahammaRafi06.github.io/static/media/UWlogo.6bd59148d4c0ac622466.png",
+    "static/media/IITBlogo.png": "/MahammaRafi06.github.io/static/media/IITBlogo.8f82073442e838c65f06.png",
+    "static/media/Montserrat-Regular.ttf": "/MahammaRafi06.github.io/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Mahammad_RafiPMPE.pdf": "/MahammaRafi06.github.io/static/media/Mahammad_RafiPMPE.3dd3b70d512b773dc7ab.pdf",
+    "static/media/Agustina.woff": "/MahammaRafi06.github.io/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/Esystemslogo.png": "/MahammaRafi06.github.io/static/media/Esystemslogo.162366142169dd7be6e4.png",
+    "static/media/Agents.jpg": "/MahammaRafi06.github.io/static/media/Agents.aeaeae883c10c51c5da1.jpg",
+    "static/media/UoTlogo.png": "/MahammaRafi06.github.io/static/media/UoTlogo.ae1af2d404d0196d4007.png",
+    "static/media/azurelogo.png": "/MahammaRafi06.github.io/static/media/azurelogo.1e94f4c5e81700189d09.png",
+    "static/media/CitiusTechLogo.png": "/MahammaRafi06.github.io/static/media/CitiusTechLogo.ea05ec63ba66906b2226.png",
+    "static/media/contactMailDark.svg": "/MahammaRafi06.github.io/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/saayaHealthLogo.webp": "/MahammaRafi06.github.io/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
+    "static/media/nextuLogo.webp": "/MahammaRafi06.github.io/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
+    "index.html": "/MahammaRafi06.github.io/index.html",
+    "static/media/talksCardBack.svg": "/MahammaRafi06.github.io/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.7533df01.css.map": "/MahammaRafi06.github.io/static/css/main.7533df01.css.map",
+    "main.425c323f.js.map": "/MahammaRafi06.github.io/static/js/main.425c323f.js.map",
+    "64.bba8fa55.chunk.css.map": "/MahammaRafi06.github.io/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/MahammaRafi06.github.io/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/MahammaRafi06.github.io/static/css/769.b3cbb36b.chunk.css.map",
+    "769.29ef301b.chunk.js.map": "/MahammaRafi06.github.io/static/js/769.29ef301b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7533df01.css",
+    "static/js/main.425c323f.js"
+  ]
+}
